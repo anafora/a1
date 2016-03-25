@@ -1,0 +1,15 @@
+cordova create a1 ca.edumedia.kim00341.a1 A1
+cordova\a1>cordova plugin add cordova-plugin-console
+cordova-plugin-camera
+cordova-plugin-device
+>cordova platform add browser
+cordova platform add android
+cordova build browser
+cordova build android
+
+cordova run browser
+
+
+https://griffis.edumedia.ca/mad9022/reviewr/review/get/
+https://griffis.edumedia.ca/mad9022/reviewr/reviews/get/
+https://griffis.edumedia.ca/mad9022/reviewr/review/set/
